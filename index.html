@@ -233,28 +233,28 @@
         <div class="card">
             <h3>Common Life Areas</h3>
             <div class="template-grid">
-                <div class="template-area" onclick="addTemplate('Family & Relationships')">
+                <div class="template-area" onclick="addTemplate('Study or academic achievement')">
                     Study or academic achievement
                 </div>
-                <div class="template-area" onclick="addTemplate('Work/Career')">
-                    Appearance/"How I look"
+                <div class="template-area" onclick="addTemplate('Appearance')">
+                    Appearance
                 </div>
-                <div class="template-area" onclick="addTemplate('Health & Fitness')">
+                <div class="template-area" onclick="addTemplate('What I eat in a day')">
                     What I eat in a day 
                 </div>
-                <div class="template-area" onclick="addTemplate('Personal Growth')">
+                <div class="template-area" onclick="addTemplate('What others think of me')">
                     What others think of me
                 </div>
-                <div class="template-area" onclick="addTemplate('Social Life')">
+                <div class="template-area" onclick="addTemplate('Dating')">
                     Dating 
                 </div>
-                <div class="template-area" onclick="addTemplate('Hobbies')">
+                <div class="template-area" onclick="addTemplate('Sports')">
                     Sports
                 </div>
-                <div class="template-area" onclick="addTemplate('Spirituality')">
+                <div class="template-area" onclick="addTemplate('Hobbies')">
                     Hobbies
                 </div>
-                <div class="template-area" onclick="addTemplate('Financial Success')">
+                <div class="template-area" onclick="addTemplate('Exercise')">
                     Exercise
                 </div>
             </div>
