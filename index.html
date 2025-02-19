@@ -231,7 +231,7 @@
         </div>
 
         <div class="card">
-            <h3>Common Life Areas</h3>
+            <h3>What other young people said are important to them...</h3>
             <div class="template-grid">
                 <div class="template-area" onclick="addTemplate('Study or academic achievement')">
                     Study or academic achievement
