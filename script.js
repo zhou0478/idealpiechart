@@ -234,28 +234,28 @@
             <h3>Common Life Areas</h3>
             <div class="template-grid">
                 <div class="template-area" onclick="addTemplate('Family & Relationships')">
-                    Family & Relationships
+                    Study or academic achievement
                 </div>
                 <div class="template-area" onclick="addTemplate('Work/Career')">
-                    Work/Career
+                    Appearance/"How I look"
                 </div>
                 <div class="template-area" onclick="addTemplate('Health & Fitness')">
-                    Health & Fitness
+                    What I eat in a day 
                 </div>
                 <div class="template-area" onclick="addTemplate('Personal Growth')">
-                    Personal Growth
+                    What others think of me
                 </div>
                 <div class="template-area" onclick="addTemplate('Social Life')">
-                    Social Life
+                    Dating 
                 </div>
                 <div class="template-area" onclick="addTemplate('Hobbies')">
-                    Hobbies
+                    Sports
                 </div>
                 <div class="template-area" onclick="addTemplate('Spirituality')">
-                    Spirituality
+                    Hobbies
                 </div>
                 <div class="template-area" onclick="addTemplate('Financial Success')">
-                    Financial Success
+                    Exercise
                 </div>
             </div>
         </div>
