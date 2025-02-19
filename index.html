@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Self-Worth Pie Chart</title>
+    <title>My Ideal Pie Chart</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
@@ -220,42 +220,42 @@
 </head>
 <body>
     <div class="container">
-        <h1>Self-Worth Pie Chart</h1>
+        <h1>My Ideal Pie Char</h1>
         
         <div class="card instructions">
             <h3>How to Complete This Exercise</h3>
-            <p>1. Reflect on the different areas of your life that contribute to your sense of self-worth</p>
+            <p>1. Reflect on the life areas you want to shape your self-worth </p>
             <p>2. Select from the common life areas below or add your own custom areas</p>
             <p>3. Assign percentages to each area (total must equal 100%)</p>
-            <p>4. Click "Update Chart" to visualize your pie chart</p>
+            <p>4. Click "Update Chart" to visualize your ideal pie chart</p>
         </div>
 
         <div class="card">
             <h3>What other young people said are important to them...</h3>
             <div class="template-grid">
-                <div class="template-area" onclick="addTemplate('Study or academic achievement')">
-                    Study or academic achievement
+                <div class="template-area" onclick="addTemplate('Work')">
+                    Work
                 </div>
-                <div class="template-area" onclick="addTemplate('Appearance')">
-                    Appearance
+                <div class="template-area" onclick="addTemplate('Study')">
+                    Study
                 </div>
-                <div class="template-area" onclick="addTemplate('What I eat in a day')">
-                    What I eat in a day 
+                <div class="template-area" onclick="addTemplate('Family')">
+                    Family 
                 </div>
-                <div class="template-area" onclick="addTemplate('What others think of me')">
-                    What others think of me
+                <div class="template-area" onclick="addTemplate('Friends')">
+                    Friends
                 </div>
-                <div class="template-area" onclick="addTemplate('Dating')">
-                    Dating 
-                </div>
-                <div class="template-area" onclick="addTemplate('Sports')">
-                    Sports
+                <div class="template-area" onclick="addTemplate('Romantic Relationship')">
+                    Romantic Relationship
                 </div>
                 <div class="template-area" onclick="addTemplate('Hobbies')">
                     Hobbies
                 </div>
-                <div class="template-area" onclick="addTemplate('Exercise')">
-                    Exercise
+                <div class="template-area" onclick="addTemplate('Health & Well-being')">
+                    Health & Well-being
+                </div>
+                <div class="template-area" onclick="addTemplate('Personal Growth')">
+                    Personal Growth
                 </div>
             </div>
         </div>
