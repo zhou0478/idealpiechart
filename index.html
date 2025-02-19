@@ -231,7 +231,7 @@
         </div>
 
         <div class="card">
-            <h3>What other young people said are important to them...</h3>
+            <h3>Common life areas</h3>
             <div class="template-grid">
                 <div class="template-area" onclick="addTemplate('Work')">
                     Work
