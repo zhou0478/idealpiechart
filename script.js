@@ -220,7 +220,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>My Ideal Pie Char</h1>
+        <h1>My Ideal Pie Chart</h1>
         
         <div class="card instructions">
             <h3>How to Complete This Exercise</h3>
