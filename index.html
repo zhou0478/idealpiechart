@@ -220,14 +220,14 @@
 </head>
 <body>
     <div class="container">
-        <h1>Self-Worth Distribution</h1>
+        <h1>Self-Worth Pie Chart</h1>
         
         <div class="card instructions">
             <h3>How to Complete This Exercise</h3>
             <p>1. Reflect on the different areas of your life that contribute to your sense of self-worth</p>
             <p>2. Select from the common life areas below or add your own custom areas</p>
             <p>3. Assign percentages to each area (total must equal 100%)</p>
-            <p>4. Click "Update Chart" to visualize your distribution</p>
+            <p>4. Click "Update Chart" to visualize your pie chart</p>
         </div>
 
         <div class="card">
@@ -402,7 +402,7 @@
             
             // Add title
             const title = document.createElement('h2');
-            title.textContent = 'My Self-Worth Distribution';
+            title.textContent = 'My Self-Worth Pie Chart';
             title.style.textAlign = 'center';
             title.style.color = '#4d3c3a';
             title.style.marginBottom = '20px';
@@ -434,7 +434,7 @@
             }).then(canvas => {
                 // Create download link
                 const link = document.createElement('a');
-                link.download = 'self-worth-distribution.png';
+                link.download = 'self-worth-pie-chart.png';
                 link.href = canvas.toDataURL('image/png');
                 link.click();
                 
