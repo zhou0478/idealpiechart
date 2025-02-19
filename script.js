@@ -1,3 +1,4 @@
+alert("Script is loaded!");
 
 <!DOCTYPE html>
 <html>
